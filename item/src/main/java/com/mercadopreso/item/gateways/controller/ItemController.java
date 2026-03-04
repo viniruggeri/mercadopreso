@@ -1,4 +1,4 @@
-package com.mercadopreso.item.controller;
+package com.mercadopreso.item.gateways.controller;
 
 import com.mercadopreso.item.dto.ItemDto;
 import com.mercadopreso.item.service.ItemService;
